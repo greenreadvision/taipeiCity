@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.sponsor img{
+  margin: 0px;
+}
+#preloader {
+	background-color:rgba(245, 245, 245, 0.9);
+}
+.sk-spinner-wave div {
+    background-color: #ffd2a7;
+}
+
+.iframe-rwd {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 10px;
+  height: 0;
+}
+.iframe-rwd iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
